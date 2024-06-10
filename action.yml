@@ -1,18 +1,18 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Mike Test JS Action'
+description: 'This test action will fully rock.'
+author: 'Pedestrians International Ice Castles'
 
 # Define your inputs here.
 inputs:
   milliseconds:
-    description: 'Your input description here'
+    description: 'How long does it take you to sculpt ice?'
     required: true
-    default: '1000'
+    default: '500'
 
 # Define your outputs here.
 outputs:
   time:
-    description: 'Your output description here'
+    description: 'Chainsaw time'
 
 runs:
   using: node20
