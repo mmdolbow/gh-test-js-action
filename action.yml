@@ -17,6 +17,8 @@ inputs:
 outputs:
   time:
     description: 'Chainsaw time'
+  outmesage:
+    description: 'CrazyTalk Output Message'
 
 runs:
   using: node20
