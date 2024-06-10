@@ -8,6 +8,10 @@ inputs:
     description: 'Run Time'
     required: true
     default: '500'
+  message:
+    description: 'Custom Message'
+    required: true
+    default: 'A message of Demotivation'
 
 # Define your outputs here.
 outputs:
