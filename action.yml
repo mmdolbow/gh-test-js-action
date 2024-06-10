@@ -1,11 +1,11 @@
-name: 'Mike Test JS Action'
-description: 'This test action will fully rock.'
+name: 'Rocking Test JS Action'
+description: 'This test action will fully rock the ice castle world.'
 author: 'Pedestrians International Ice Castles'
 
 # Define your inputs here.
 inputs:
   milliseconds:
-    description: 'How long does it take you to sculpt ice?'
+    description: 'Run Time'
     required: true
     default: '500'
 
