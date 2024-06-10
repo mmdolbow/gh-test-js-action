@@ -13,7 +13,6 @@ inputs:
 outputs:
   time:
     description: 'Chainsaw time'
-    run: echo "${{ outputs.time.description }}"
 
 runs:
   using: node20
